@@ -1,0 +1,48 @@
+{
+  "seller": [
+    {
+      "name": "Tabish",
+      "email": "tabish@gmail.com",
+      "password": "Tabish@1",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Vivo Y91",
+      "price": "27000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "Good Mobile",
+      "image": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1552383080473/431b6b4fb844586d2856f837981351b5.png",
+      "id": 1
+    },
+    {
+      "name": "Samsung Galaxy S23",
+      "price": "350000",
+      "color": "Black",
+      "category": "Samsung Mobile",
+      "description": "Good Mobile ",
+      "image": "https://i1.wp.com/roxannelacap.com/wp-content/uploads/2020/07/BTS-Edition-Galaxy-S20.png?resize=1080%2C1280",
+      "id": 3
+    },
+    {
+      "name": "Oppo A5",
+      "price": "40000",
+      "color": "Blue",
+      "category": "Oppo Mobile",
+      "description": "Mobile",
+      "image": "https://data1.ibtimes.co.in/en/full/692645/oppo-a5-launched.png",
+      "id": 4
+    },
+    {
+      "name": "Vivo V21",
+      "price": "36000",
+      "color": "Sky Blue",
+      "category": "Mobile",
+      "description": "Perfect Mobile",
+      "image": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1623152200776/48b25a7a7326e64d501a062d78b032f6.png",
+      "id": 2
+    }
+  ]
+}
